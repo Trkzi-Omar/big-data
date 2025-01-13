@@ -1,0 +1,6 @@
+transaction_id,user_id,product_id,timestamp,amount,category,quantity,unit_price
+1001,user123,prod456,2024-03-20 10:30:00,150.50,Electronics,2,75.25
+1002,user124,prod789,2024-03-20 10:35:00,75.25,Books,1,75.25
+1003,user125,prod456,2024-03-20 10:40:00,200.00,Electronics,4,50.00
+1004,user126,prod123,2024-03-20 10:45:00,99.99,Books,1,99.99
+1005,user127,prod456,2024-03-20 10:50:00,175.75,Electronics,3,58.58 
